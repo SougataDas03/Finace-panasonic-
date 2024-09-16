@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7a320202c3e8d210945e9e1d05013171</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>f632c642c3e8d210945e9e1d050131ab</answer>
+        <condition table="var__m_sys_decision_input_082e9506c328d210945e9e1d05013152">u_department_code=AB1^u_applicant_level=7e573802c364d210945e9e1d0501314c^EQ<item endquery="false" field="u_department_code" goto="false" newquery="false" operator="=" or="false" value="AB1"/>
+            <item display_table="sys_user_group" display_value="Planning Team" endquery="false" field="u_applicant_level" goto="false" newquery="false" operator="=" or="false" value="7e573802c364d210945e9e1d0501314c"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="PIDSAP eInvoice Approval Matrix">082e9506c328d210945e9e1d05013152</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_082e9506c328d210945e9e1d05013152</input_table>
+        <label>PIDSAP eInvoice Approval Matrix_100</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a320202c3e8d210945e9e1d05013171</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PIDSAP eInvoice Approval Matrix_100</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_decision_question_7a320202c3e8d210945e9e1d05013171</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+    </sys_decision_question>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_id>be320202c3e8d210945e9e1d05013172</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PIDSAP eInvoice Approval Matrix_100</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_metadata_link_be320202c3e8d210945e9e1d05013172</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+        <tablename>sys_decision_question</tablename>
+    </sys_metadata_link>
+</record_update>

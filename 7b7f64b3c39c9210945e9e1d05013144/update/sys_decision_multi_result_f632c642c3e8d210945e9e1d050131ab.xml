@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="PIDSAP eInvoice Approval Matrix">082e9506c328d210945e9e1d05013152</decision_table>
+        <label>Approver 1: Planning General Manager, Approver 2: Planning Director, Approver 3: PIDSAP-AC EMS Sales Executive Director, Approver 4: PIDSAP HR (Local) Approver, Approver 5: PIDSAP Accounting Non-Trade Validato</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f632c642c3e8d210945e9e1d050131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approver 1: Planning General Manager, Approver 2: Planning Director, Approver 3: PIDSAP-AC EMS Sales Executive Director, Approver 4: PIDSAP HR (Local) Approver, Approver 5: PIDSAP Accounting Non-Trade Validato</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_decision_multi_result_f632c642c3e8d210945e9e1d050131ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=f632c642c3e8d210945e9e1d050131ab"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>f632c642c3e8d210945e9e1d050131ab</document_key>
+        <order>300</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_id>3632c642c3e8d210945e9e1d050131ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+        <value>3001818ac364d210945e9e1d050131bd</value>
+        <variable display_value="Approver 3">08110202c3e8d210945e9e1d05013105</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>f632c642c3e8d210945e9e1d050131ab</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_id>7232c642c3e8d210945e9e1d050131ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+        <value>0e4bf006c364d210945e9e1d050131db</value>
+        <variable display_value="Approver 1">3301ca4ec3a8d210945e9e1d0501319e</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>f632c642c3e8d210945e9e1d050131ab</document_key>
+        <order>400</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_id>be32c642c3e8d210945e9e1d050131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+        <value>671289cac364d210945e9e1d05013143</value>
+        <variable display_value="Approver 4">4c110202c3e8d210945e9e1d05013116</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>f632c642c3e8d210945e9e1d050131ab</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_id>f632c642c3e8d210945e9e1d050131ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+        <value>76bdfc46c364d210945e9e1d05013136</value>
+        <variable display_value="Approver 2">8c11cecec3a8d210945e9e1d050131e7</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>f632c642c3e8d210945e9e1d050131ab</document_key>
+        <order>500</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_id>fa32c642c3e8d210945e9e1d050131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+        <value>7c934502c3a4d210945e9e1d050131d0</value>
+        <variable display_value="Approver 5">04110202c3e8d210945e9e1d05013128</variable>
+    </sys_variable_value>
+</record_update>

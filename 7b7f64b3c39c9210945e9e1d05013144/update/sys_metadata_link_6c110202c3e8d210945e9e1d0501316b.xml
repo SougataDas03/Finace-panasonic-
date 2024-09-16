@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ac114e4ec3a8d210945e9e1d050131de</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer/>
+        <condition/>
+        <decision_table display_value="PIDSAP eInvoice Approval Matrix">082e9506c328d210945e9e1d05013152</decision_table>
+        <default_answer>true</default_answer>
+        <input_table>var__m_sys_decision_input_082e9506c328d210945e9e1d05013152</input_table>
+        <label>PIDSAP eInvoice Approval Matrix default result</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:42:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ac114e4ec3a8d210945e9e1d050131de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PIDSAP eInvoice Approval Matrix default result</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_decision_question_ac114e4ec3a8d210945e9e1d050131de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:42:00</sys_updated_on>
+    </sys_decision_question>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:42:00</sys_created_on>
+        <sys_id>6c110202c3e8d210945e9e1d0501316b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PIDSAP eInvoice Approval Matrix default result</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_metadata_link_6c110202c3e8d210945e9e1d0501316b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:42:00</sys_updated_on>
+        <tablename>sys_decision_question</tablename>
+    </sys_metadata_link>
+</record_update>

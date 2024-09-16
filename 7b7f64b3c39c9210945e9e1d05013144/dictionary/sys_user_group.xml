@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,forcePrimaryKeyOrdering=true,ih_process_sync_enabled=true,iterativeDelete=true,kagami_csindex_enabled=true,slushbucket_omit_embedded=true" db_object_id="0eb00d338d020210d0ad51af41866346" defaultsort="-1" label="Group" max_length="40" name="sys_user_group" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Company" max_length="32" name="x_1040502_nsc_pe_0_company" reference="core_company" type="reference"/>
+        <index name="index">
+            <element name="x_1040502_nsc_pe_0_company"/>
+        </index>
+    </element>
+</database>

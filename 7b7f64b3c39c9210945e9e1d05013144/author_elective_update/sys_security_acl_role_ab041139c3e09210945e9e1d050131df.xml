@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 13:46:50</sys_created_on>
+        <sys_id>ab041139c3e09210945e9e1d050131df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1040502_nsc_pe_0_einvoice_detail.x_1040502_nsc_pe_0.admin</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_security_acl display_value="x_1040502_nsc_pe_0_einvoice_detail">e7041139c3e09210945e9e1d050131dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ab041139c3e09210945e9e1d050131df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 13:46:50</sys_updated_on>
+        <sys_user_role display_value="x_1040502_nsc_pe_0.admin" name="x_1040502_nsc_pe_0.admin">f77f64b3c39c9210945e9e1d0501314c</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</application>
+        <file_path/>
+        <instance_id>cca3323adb1a71542f082a5913961937</instance_id>
+        <instance_name>dev208145</instance_name>
+        <name>sys_security_acl_role_ab041139c3e09210945e9e1d050131df</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 13:46:50</sys_created_on><sys_id>ab041139c3e09210945e9e1d050131df</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1040502_nsc_pe_0_einvoice_detail.x_1040502_nsc_pe_0.admin</sys_name><sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package><sys_policy/><sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope><sys_security_acl display_value="x_1040502_nsc_pe_0_einvoice_detail">e7041139c3e09210945e9e1d050131dc</sys_security_acl><sys_update_name>sys_security_acl_role_ab041139c3e09210945e9e1d050131df</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 13:46:50</sys_updated_on><sys_user_role display_value="x_1040502_nsc_pe_0.admin" name="x_1040502_nsc_pe_0.admin">f77f64b3c39c9210945e9e1d0501314c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-248428621</payload_hash>
+        <record_name>x_1040502_nsc_pe_0_einvoice_detail.x_1040502_nsc_pe_0.admin</record_name>
+        <reverted_from/>
+        <source>3b7f64b3c39c9210945e9e1d05013148</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 13:46:50</sys_created_on>
+        <sys_id>ab041139c3e09210945e9e1d050131e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191dc2fde630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 13:46:50</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>af041139f4e09210392dda06c99f0be1</update_guid>
+        <update_guid_history>af041139f4e09210392dda06c99f0be1:-248428621</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1040502_nsc_pe_0_einvoice_detail.x_1040502_nsc_pe_0.admin">e244d539c3e09210945e9e1d05013110</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 13:47:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>045debab0e464b2cb270875c5f97be04</sys_id>
+        <sys_metadata>ab041139c3e09210945e9e1d050131df</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1040502_nsc_pe_0_einvoice_detail.x_1040502_nsc_pe_0.admin</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_parent display_value="">e7041139c3e09210945e9e1d050131dc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_scope_delete display_value="">33947b8e721546308c9e5c93799bc900</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_ab041139c3e09210945e9e1d050131df</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_ab041139c3e09210945e9e1d050131df">ab041139c3e09210945e9e1d050131e2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 13:47:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

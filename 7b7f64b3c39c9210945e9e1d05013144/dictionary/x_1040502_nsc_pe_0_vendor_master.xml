@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="546762d9c3601210945e9e1d050131b4" extends="task" label="Vendor Master" max_length="40" name="x_1040502_nsc_pe_0_vendor_master" type="collection">
+        <element label="Address street 1" max_length="40" name="address_street_1" type="string"/>
+        <element label="Address street 2" max_length="40" name="address_street_2" type="string"/>
+        <element label="Address street 3" max_length="40" name="address_street_3" type="string"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="Country " max_length="40" name="country" type="string"/>
+        <element label="Postal Code" max_length="40" name="postal_code" type="string"/>
+        <element label="Search term" max_length="40" name="search_term" type="string"/>
+        <element label="Telephone" max_length="40" name="telephone" type="string"/>
+        <element label="Vendor Name" max_length="40" name="vendor_master" type="string"/>
+        <element label="Vendor type" max_length="40" name="vendor_type" type="string"/>
+    </element>
+</database>

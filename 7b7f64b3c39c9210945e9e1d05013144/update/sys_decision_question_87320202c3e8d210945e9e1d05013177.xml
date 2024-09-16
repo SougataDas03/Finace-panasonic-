@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>7632c642c3e8d210945e9e1d050131a6</answer>
+        <condition table="var__m_sys_decision_input_082e9506c328d210945e9e1d05013152">u_department_code=AG1^u_applicant_level=7bdb7886c364d210945e9e1d0501314f^EQ<item endquery="false" field="u_department_code" goto="false" newquery="false" operator="=" or="false" value="AG1"/>
+            <item display_table="sys_user_group" display_value="BOG LOG Team 1" endquery="false" field="u_applicant_level" goto="false" newquery="false" operator="=" or="false" value="7bdb7886c364d210945e9e1d0501314f"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="PIDSAP eInvoice Approval Matrix">082e9506c328d210945e9e1d05013152</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_082e9506c328d210945e9e1d05013152</input_table>
+        <label>PIDSAP eInvoice Approval Matrix_200</label>
+        <marked_for_deletion>false</marked_for_deletion>
+        <order>200</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 11:47:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>87320202c3e8d210945e9e1d05013177</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PIDSAP eInvoice Approval Matrix_200</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_decision_question_87320202c3e8d210945e9e1d05013177</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 11:47:04</sys_updated_on>
+    </sys_decision_question>
+</record_update>

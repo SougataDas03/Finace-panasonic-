@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections action="DELETE" form_id="405655f9c3e09210945e9e1d05013134" sys_domain="global" table="x_1040502_nsc_pe_0_einvoice_detail" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 13:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>805655f9c3e09210945e9e1d05013137</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1040502_nsc_pe_0_einvoice_detail" name="x_1040502_nsc_pe_0_einvoice_detail" sys_domain="global" view="Default view">405655f9c3e09210945e9e1d05013134</sys_ui_form>
+            <sys_ui_section display_value="">3e041d71c3e09210945e9e1d050131a7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 13:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 13:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc5655f9c3e09210945e9e1d05013137</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1040502_nsc_pe_0_einvoice_detail" name="x_1040502_nsc_pe_0_einvoice_detail" sys_domain="global" view="Default view">405655f9c3e09210945e9e1d05013134</sys_ui_form>
+            <sys_ui_section display_value="">ba041139c3e09210945e9e1d05013143</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 13:56:42</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1040502_nsc_pe_0_einvoice_detail</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-10 13:56:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>405655f9c3e09210945e9e1d05013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1040502_nsc_pe_0_einvoice_detail</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+            <sys_update_name>sys_ui_form_sections_405655f9c3e09210945e9e1d05013134</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-10 13:56:42</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</application>
+        <file_path/>
+        <instance_id>cca3323adb1a71542f082a5913961937</instance_id>
+        <instance_name>dev208145</instance_name>
+        <name>sys_ui_form_sections_405655f9c3e09210945e9e1d05013134</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_form_sections form_id="405655f9c3e09210945e9e1d05013134" sys_domain="global" table="x_1040502_nsc_pe_0_einvoice_detail" version="3"><sys_ui_form_section action="INSERT_OR_UPDATE"><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 13:56:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>805655f9c3e09210945e9e1d05013137</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1040502_nsc_pe_0_einvoice_detail" name="x_1040502_nsc_pe_0_einvoice_detail" sys_domain="global" view="Default view">405655f9c3e09210945e9e1d05013134</sys_ui_form><sys_ui_section display_value="">3e041d71c3e09210945e9e1d050131a7</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 13:56:42</sys_updated_on></sys_ui_form_section><sys_ui_form_section action="INSERT_OR_UPDATE"><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 13:56:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cc5655f9c3e09210945e9e1d05013137</sys_id><sys_mod_count>0</sys_mod_count><sys_overrides/><sys_ui_form display_value="x_1040502_nsc_pe_0_einvoice_detail" name="x_1040502_nsc_pe_0_einvoice_detail" sys_domain="global" view="Default view">405655f9c3e09210945e9e1d05013134</sys_ui_form><sys_ui_section display_value="">ba041139c3e09210945e9e1d05013143</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 13:56:42</sys_updated_on></sys_ui_form_section><sys_ui_form action="INSERT_OR_UPDATE"><name>x_1040502_nsc_pe_0_einvoice_detail</name><roles/><sys_class_name>sys_ui_form</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 13:56:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>405655f9c3e09210945e9e1d05013134</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1040502_nsc_pe_0_einvoice_detail</sys_name><sys_overrides/><sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package><sys_policy/><sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope><sys_update_name>sys_ui_form_sections_405655f9c3e09210945e9e1d05013134</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 13:56:42</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_form></sys_ui_form_sections></record_update>]]></payload>
+        <payload_hash>1544775670</payload_hash>
+        <record_name>eInvoice Detail</record_name>
+        <reverted_from/>
+        <source>3b7f64b3c39c9210945e9e1d05013148</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 13:56:42</sys_created_on>
+        <sys_id>885655f9c3e09210945e9e1d05013184</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191dc38e8660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 13:56:42</sys_updated_on>
+        <type>Form Sections</type>
+        <update_guid>405655f99be092109399b09190e7b184</update_guid>
+        <update_guid_history>405655f99be092109399b09190e7b184:1544775670,c85655f9a5e092106471a619c5d33635:-2026396744</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 14:05:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_form">sys_ui_form</sys_db_object>
+        <sys_id>3a245d3c054f4a1fa095ccc345224a81</sys_id>
+        <sys_metadata>405655f9c3e09210945e9e1d05013134</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1040502_nsc_pe_0_einvoice_detail</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_parent display_value="">d5945d39c3e09210945e9e1d05013117</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_scope_delete display_value="">33947b8e721546308c9e5c93799bc900</sys_scope_delete>
+        <sys_update_name>sys_ui_form_sections_405655f9c3e09210945e9e1d05013134</sys_update_name>
+        <sys_update_version display_value="sys_ui_form_sections_405655f9c3e09210945e9e1d05013134">885655f9c3e09210945e9e1d05013184</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:05:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

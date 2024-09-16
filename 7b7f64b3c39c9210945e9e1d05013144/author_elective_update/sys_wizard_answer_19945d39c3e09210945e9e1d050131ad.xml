@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>eInvoice Detail</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>eInvoice Detail</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">da81893b8d020210d0ad51af4186635c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 13:49:08</sys_created_on>
+        <sys_id>19945d39c3e09210945e9e1d050131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eInvoice Detail</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_update_name>sys_wizard_answer_19945d39c3e09210945e9e1d050131ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 13:49:08</sys_updated_on>
+        <table/>
+        <target_url>x_1040502_nsc_pe_0_einvoice_detail.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</application>
+        <file_path/>
+        <instance_id>cca3323adb1a71542f082a5913961937</instance_id>
+        <instance_name>dev208145</instance_name>
+        <name>sys_wizard_answer_19945d39c3e09210945e9e1d050131ad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>eInvoice Detail</answer><button_label/><dependent_value/><element/><name>eInvoice Detail</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">da81893b8d020210d0ad51af4186635c</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-10 13:49:08</sys_created_on><sys_id>19945d39c3e09210945e9e1d050131ad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>eInvoice Detail</sys_name><sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package><sys_policy/><sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope><sys_update_name>sys_wizard_answer_19945d39c3e09210945e9e1d050131ad</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-10 13:49:08</sys_updated_on><table/><target_url>x_1040502_nsc_pe_0_einvoice_detail.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1189695374</payload_hash>
+        <record_name>eInvoice Detail</record_name>
+        <reverted_from/>
+        <source>a0f37b33c3001210945e9e1d05013182</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-08-23 10:01:52</sys_created_on>
+        <sys_id>6338dd7dc3e09210945e9e1d0501312d</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1917eaf6e800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>2338dd7d9de0921088ab7ea5f724342d</update_guid>
+        <update_guid_history>2338dd7d9de0921088ab7ea5f724342d:-1189695374</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 14:05:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>1d710b85884647888c511b6b0e63dc10</sys_id>
+        <sys_metadata>19945d39c3e09210945e9e1d050131ad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>eInvoice Detail</sys_name>
+        <sys_package display_value="NSC-PEX Invoice" source="x_1040502_nsc_pe_0">7b7f64b3c39c9210945e9e1d05013144</sys_package>
+        <sys_parent display_value="Task">da81893b8d020210d0ad51af4186635c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NSC-PEX Invoice">7b7f64b3c39c9210945e9e1d05013144</sys_scope>
+        <sys_scope_delete display_value="">33947b8e721546308c9e5c93799bc900</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_19945d39c3e09210945e9e1d050131ad</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_19945d39c3e09210945e9e1d050131ad">6338dd7dc3e09210945e9e1d0501312d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 14:05:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
